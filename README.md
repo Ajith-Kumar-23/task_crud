@@ -13,13 +13,18 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Exmples
 
 Login
-![Alt text](image.png)
+![Screenshot 2023-10-26 112611](https://github.com/Ajith-Kumar-23/task_crud/assets/90506833/a15b015b-6b0c-4c6d-a2aa-1cd17bb6d370)
+
+
 
 Home 
-![Alt text](image-1.png)
+![Screenshot 2023-10-26 112813](https://github.com/Ajith-Kumar-23/task_crud/assets/90506833/8dbe0fdf-03cf-426f-ba50-7e3a1401ae01)
+
 
 Create
-![Alt text](image-2.png)
+![Screenshot 2023-10-26 112930](https://github.com/Ajith-Kumar-23/task_crud/assets/90506833/5aff97bd-c826-49c1-a14b-4817edfaaeb9)
+
 
 Edit
-![Alt text](image-3.png)
+![Screenshot 2023-10-26 113025](https://github.com/Ajith-Kumar-23/task_crud/assets/90506833/68b819c9-0e54-4908-89b2-43c6b708053a)
+
